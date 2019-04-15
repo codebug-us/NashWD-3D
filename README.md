@@ -1,4 +1,4 @@
-# Conjunction Junction What's Your Function
+# Conjunction Junction Junction What's Your Function
 
 ## In `index.html`
 * Open `index.html` in Sublime
