@@ -97,7 +97,20 @@ document.addEventListener('DOMContentLoaded', function() {
   // Expected output: -4
   // console.log(babyDaddy(21, 21));
   // Expected output: 21
+  
+//////////////////////////////////////////////////////////////////////////
+  // Write `hBookEnds` below.
 
+
+
+
+  // Uncomment the line below, and look in the console to see if your function worked!
+  // console.log(hBookEnds("hello sarah");
+  // Expected output: true
+  // console.log(hBookEnds("Hype for savannah");
+  // Expected output: true
+  // console.log(hBookEnds("I love coding"));
+  // Expected output: false
 //////////////////////////////////////////////////////////////////////////
   // Write `breakfastChef` below.
 
