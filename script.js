@@ -5,9 +5,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
   // Uncomment the line below, and look in the console to see if your function worked!
-  // console.log(hotdogNotHotdog("hotdog"))
+  // console.log(hotdogNotHotdog("hotdog"));
   // Expected output: hotdog
-  // console.log(hotdogNotHotdog("peyton manning"))
+  // console.log(hotdogNotHotdog("peyton manning"));
   // Expected output: not hotdog
 
 //////////////////////////////////////////////////////////////////////////
@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
   // Uncomment the line below, and look in the console to see if your function worked!
-  // console.log(helloWorld())
+  // console.log(helloWorld());
   // Expected output: Hello World!
 
 //////////////////////////////////////////////////////////////////////////
@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
   // Uncomment the line below, and look in the console to see if your function worked!
-  // console.log(yell("Party!"))
+  // console.log(yell("Party!"));
   // Expected output: PARTY!
 
 //////////////////////////////////////////////////////////////////////////
@@ -197,4 +197,4 @@ document.addEventListener('DOMContentLoaded', function() {
 
 //////////////////////////////////////////////////////////////////////////
 
-})
+});
