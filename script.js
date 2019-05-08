@@ -209,5 +209,20 @@ document.addEventListener('DOMContentLoaded', function() {
   // Expected output: "Retton"
 
 //////////////////////////////////////////////////////////////////////////
+  
+  // Write `changeTheT` below.
+
+
+
+
+  // Uncomment the lines below, and look in the console to see if your function worked!
+  // console.log(changeTheT("whats up"));
+  // Expected output: "whass up"
+  // console.log(changeTheT("Ting!"));
+  // Expected output: "sing!"
+  // console.log(changeTheT("thanks to the chef!"));
+  // Expected output: "shanks so she chef!"
+
+//////////////////////////////////////////////////////////////////////////
 
 });
