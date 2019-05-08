@@ -175,8 +175,10 @@ document.addEventListener('DOMContentLoaded', function() {
   // Uncomment the lines below, and look in the console to see if your function worked!
   // console.log(lastFour("My last four digits are all fours. 4444"));
   // Expected output: 4444
-  // console.log(lastFour("What are my last 4 digits"));
-  // Expected output: "gits"
+  // console.log(lastFour("What are my last 4 digits?"));
+  // Expected output: "its?"
+  // console.log(lastFour("Hey"));
+  // Expected output: "Word is too short!"
 
 //////////////////////////////////////////////////////////////////////////
   
