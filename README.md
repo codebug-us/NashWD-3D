@@ -28,5 +28,5 @@ EXAMPLE FUNCTION (Let's do this one together!)
 * Write a function called `isNum` that takes in a string and returns true if the string is a number and false if the string is not a number.
 * Write a function called `lastFour` that returns the last 4 characters of a word. Here is a [list of built-in JavaScript](https://www.w3schools.com/jsref/jsref_obj_string.asp) string functions to help you. If the word is less than 4 characters long it should return "Word is too short!".
 * Write a function called `lastNamer`. It should take in one parameter called `fullName` and return just the last name. At first you can just assume all `fullName`s that are entered use the format "Firstname Lastname". Once you've completed that, you can try to handle more complicated inputs such as "Mary Lou Smith". Here is a [list of built-in JavaScript](https://www.w3schools.com/jsref/jsref_obj_string.asp) string functions to help you.
-* Write a function called `changeTheT` that will accept one string parameter and change every "t" inside that string (regardless of case) to an "l".
+* Write a function called `changeTheT` that will accept one string parameter and change every "t" inside that string (regardless of case) to an "s".
 * Make up your own function exercise to try to stump your classmates!
