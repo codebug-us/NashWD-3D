@@ -165,6 +165,33 @@ document.addEventListener('DOMContentLoaded', function() {
   // Expected output: false
   // console.log(isNum("11"));
   // Expected output: true
+  
+//////////////////////////////////////////////////////////////////////////
+  // Write `lastFour` below.
+
+
+
+
+  // Uncomment the lines below, and look in the console to see if your function worked!
+  // console.log(lastFour("My last four digits are all fours. 4444"));
+  // Expected output: 4444
+  // console.log(lastFour("What are my last 4 digits"));
+  // Expected output: "gits"
+
+//////////////////////////////////////////////////////////////////////////
+  
+  // Write `lastNamer` below.
+
+
+
+
+  // Uncomment the lines below, and look in the console to see if your function worked!
+  // console.log(lastNamer("Sarah Betack"));
+  // Expected output: "Betack"
+  // console.log(lastNamer("Lebron James"));
+  // Expected output: "James"
+  // console.log(lastNamer("Mary Lou Retton"));
+  // Expected output: "Retton"
 
 //////////////////////////////////////////////////////////////////////////
 
